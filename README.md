@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif">
+    <img align='center' src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" height=50 width=50>
     <br>
-    <b>Something Wrong, Please check your internet connection</b>
+    <b align="center">Something Wrong, Please check your internet connection</b>
 </div>
